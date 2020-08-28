@@ -50,7 +50,9 @@ $Area= r^2 \pi$
 
 ## 3. 结论
 ### 3.1 积分 integral
+
 **`在该函数下, dx足够小, 小到是个矩形, dA面积 = f(x) * dt`**
+
 <img src="https://user-images.githubusercontent.com/13708045/74118006-ade83080-4bf4-11ea-9d2b-16708cb88be9.png" width=300 />
 
 ### 3.2 导数 derivative
