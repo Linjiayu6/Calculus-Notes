@@ -14,9 +14,19 @@
 ## 2. 导数
 **`导数: 函数图上过某一点切线的斜率`**
 
+```
+时间和距离关系: s(t) = t^3
+当 t (秒), 经过 dt (秒), 到 t + dt (秒) 后, 算出来当前速率?
+
+- t(秒): 距离 s(t)
+- t + dt (秒): 距离 s(t + dt)
+- ds = s(t + dt) - s(t)
+- dv = f'(x) = ds / dt
+```
+
 <img src="https://user-images.githubusercontent.com/13708045/74126753-b00db780-4c13-11ea-8cb4-64c4795c2505.png" width=400 />
 
-# 3. 总结
+## 3. 总结
 
 <img src="https://user-images.githubusercontent.com/13708045/74127409-8ce40780-4c15-11ea-8e83-2572ce9a005c.png" width=400 />
 
