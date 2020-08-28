@@ -1,14 +1,10 @@
 # Hard problem => Sum of many small Values
 
-```
-Fundamental theorem of calculus
-微积分基本定理: https://www.bilibili.com/video/av24325548?p=1
-
-integral 积分: 近似求和
-differential 微分: 微小的增量 `dx`
-derivative 导数:  衡量函数对取值的微小变化敏感度 (切线斜率) `f'(x)` 或 `dy/dx`
-```
-<!-- TOC -->autoauto- [Hard problem => Sum of many small Values](#hard-problem--sum-of-many-small-values)auto    - [1. 例子1](#1-例子1)auto        - [1.1 思考I](#11-思考i)auto        - [1.2 思考II - 厚度 dr](#12-思考ii---厚度-dr)auto        - [1.3 思考III - 证明](#13-思考iii---证明)auto        - [1.4 在 x^2 的积分](#14-在-x^2-的积分)auto    - [2. 例子2](#2-例子2)auto        - [2.1 思考I](#21-思考i)auto        - [2.2 推导](#22-推导)auto    - [3. 结论](#3-结论)auto        - [3.1 积分 integral](#31-积分-integral)auto        - [3.2 导数 derivative](#32-导数-derivative)autoauto<!-- /TOC -->
+- Fundamental theorem of calculus
+- 微积分基本定理: https://www.bilibili.com/video/av24325548?p=1
+- integral 积分: 近似求和
+- differential 微分: 微小的增量 `dx`
+- derivative 导数:  衡量函数对取值的微小变化敏感度 (切线斜率) `f'(x)` 或 `dy/dx`
 
 
 ## 1. 例子1
