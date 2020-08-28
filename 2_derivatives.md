@@ -21,7 +21,7 @@
 - t(秒): 距离 s(t)
 - t + dt (秒): 距离 s(t + dt)
 - ds = s(t + dt) - s(t)
-- dv = f'(x) = ds / dt
+- 速率: dv = f'(t) = ds / dt
 ```
 
 <img src="https://user-images.githubusercontent.com/13708045/74126753-b00db780-4c13-11ea-8cb4-64c4795c2505.png" width=400 />
