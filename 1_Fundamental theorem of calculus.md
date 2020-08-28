@@ -8,7 +8,7 @@
 
 <hr />
 
-## 1. 概念理解
+# 1. 概念理解
 从一个圆了解概念 某个圆的计算面积是从哪儿来的?
 
 ### 1.1 思考 I
@@ -37,18 +37,17 @@ $Area= r^2 \pi$
 
 <img src="https://user-images.githubusercontent.com/13708045/74117899-28648080-4bf4-11ea-8e81-78f11d84b792.png" width=300 />
 
-## 2. 例子2
+# 2. 例子2
 ### 2.1 思考I
 - 每个小面积 (微小变化的量) dA
 -  dA / dx 小面积除以厚度 = derivative
 
 <img src="https://user-images.githubusercontent.com/13708045/74117909-3ca87d80-4bf4-11ea-84f1-794c796a24d6.png" width=300 />
 
-
 ### 2.2 推导
 <img src="https://user-images.githubusercontent.com/13708045/74117915-47fba900-4bf4-11ea-8754-cb45e6e496f2.png" width=300 />
 
-## 3. 结论
+# 3. 结论
 ### 3.1 积分 integral
 
 **`在该函数下, dx足够小, 小到是个矩形, dA面积 = f(x) * dt`**
