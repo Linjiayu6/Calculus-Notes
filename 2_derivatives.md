@@ -13,6 +13,7 @@
 
 ## 2. 导数
 **`导数: 函数图上过某一点切线的斜率`**
+
 <img src="https://user-images.githubusercontent.com/13708045/74126753-b00db780-4c13-11ea-8cb4-64c4795c2505.png" width=400 />
 
 # 3. 总结
@@ -20,4 +21,5 @@
 <img src="https://user-images.githubusercontent.com/13708045/74127409-8ce40780-4c15-11ea-8e83-2572ce9a005c.png" width=400 />
 
 `把2s取代为t, 整个函数的导数:`
+
 <img src="https://user-images.githubusercontent.com/13708045/74127494-c7e63b00-4c15-11ea-9b7e-4cdbb2950733.png" width=400 />
