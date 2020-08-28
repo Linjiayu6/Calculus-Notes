@@ -1,12 +1,11 @@
 # Hard problem => Sum of many small Values
 
 - Fundamental theorem of calculus
-- 微积分基本定理: https://www.bilibili.com/video/av24325548?p=1
-- integral 积分: 近似求和
-- differential 微分: 微小的增量 `dx`
-- derivative 导数:  衡量函数对取值的微小变化敏感度 (切线斜率) `f'(x)` 或 `dy/dx`
-
-<hr />
+- [微积分基本定理](https://www.bilibili.com/video/av24325548?p=1)
+- [马同学: 微分和导数](https://www.matongxue.com/madocs/15)
+- 积分 `Integral` : 近似求和
+- 微分 `Differential` : 微小的增量 `dx`
+- 导数 `Derivative` : 微小变化敏感度 (切线斜率) `f'(x)` 或 `dy/dx`
 
 # 1. 概念理解
 从一个圆了解概念 某个圆的计算面积是从哪儿来的?
